@@ -32,4 +32,4 @@
 - 📧 Email: maharanasagar11@gmail.com
 - 💼 LinkedIn: [Sagar Maharana](https://www.linkedin.com/in/sagar-maharana-033094241/)
 - 🐦 Twitter: Coming Soon
-- 🌐 Portfolio: Under Progress
+- 🌐 Portfolio: [Sagar Maharana](https://sagarmaharana-portfolio.netlify.app/)
